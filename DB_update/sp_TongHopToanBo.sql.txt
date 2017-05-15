@@ -1,0 +1,25 @@
+CREATE PROCEDURE sp_TongHopToanBo
+AS
+if exists(Select * from sysobjects where name='BC_TongHop')
+Drop Table BC_TongHop
+Update Sys_TinhTrang set TongHop=1
+begin tran
+alter table PS_ChungTu disable trigger trg_CapNhatChungTu
+Update PS_ChungTu set MaCty=(Select Top 1 MaCty from Sys_ThongTinKhachHang)  where MaCty is null or MaCty=''
+Update PS_ChungTu set TenCty=(Select Top 1 TenCty from Sys_ThongTinKhachHang)  where TenCty is null or TenCty=''
+select * into BC_TongHop from (Select * from qry_TonghopChiTietNo union all Select * from qry_TonghopChiTietCo) A
+update BC_Tonghop set TKDoiUngID=(select top 1 TKID from BC_Tonghop A where A.TKKhoNhapID=BC_Tonghop.TKID),TenTKDoiUng=(select top 1 TenTK from BC_Tonghop A where A.TKKhoNhapID=BC_Tonghop.TKID),TenTKDoiUngEng=(select top 1 TenTKEng from BC_Tonghop A where A.TKKhoNhapID=BC_Tonghop.TKID)where TKDoiUngID is null and ChuyenKhoNoiBo=1
+update BC_Tonghop set TKDoiUngID=(select top 1 TKID from BC_Tonghop A  where A.TKID=BC_TongHop.TKKhoNhapID) ,TenTKDoiUng=(select top 1 TenTK from BC_Tonghop A where A.TKID=BC_TongHop.TKKhoNhapID),TenTKDoiUngEng=(select top 1 TenTKEng from BC_Tonghop A where A.TKID=BC_TongHop.TKKhoNhapID) where TKDoiUngID is null and TKKhoNhapID is not null
+update BC_Tonghop set TKDoiUngID=(select top 1 TKID from BC_Tonghop A where A.TKCongNo_CanTru=BC_Tonghop.TKID),TenTKDoiUng=(select top 1 TenTK from BC_Tonghop A where A.TKCongNo_CanTru=BC_Tonghop.TKID),TenTKDoiUngEng=(select top 1 TenTKEng from BC_Tonghop A where A.TKCongNo_CanTru=BC_Tonghop.TKID)where TKDoiUngID is null and CanTruCongNo=1
+update BC_Tonghop set TKDoiUngID=(select top 1 TKID from BC_Tonghop A  where A.TKID=BC_TongHop.TKCongNo_CanTru) ,TenTKDoiUng=(select top 1 TenTK from BC_Tonghop A where A.TKID=BC_TongHop.TKCongNo_CanTru),TenTKDoiUngEng=(select top 1 TenTKEng from BC_Tonghop A where A.TKID=BC_TongHop.TKCongNo_CanTru) where TKDoiUngID is null and TKCongNo_CanTru is not null
+update BC_Tonghop set NoiBo=0 where NoiBo is null
+update BC_Tonghop set TinhTrang=0 where TinhTrang is null
+update PS_ChiTiet set DaLapbaocao=1 where dalapbaocao=0 or dalapbaocao is null
+alter table PS_ChungTu enable trigger trg_CapNhatChungTu
+if @@Error<>0 rollback tran else commit tran
+Update Sys_TinhTrang set TongHop=0
+--LOI add - satrt
+ALTER TABLE BC_TongHop
+ADD ID int NOT NULL IDENTITY(1,1) CONSTRAINT PK_ID PRIMARY KEY NONCLUSTERED
+--LOI add - end
+GO
