@@ -1,0 +1,1 @@
+copy the file sqljdbc_auth.dll to windows/system32

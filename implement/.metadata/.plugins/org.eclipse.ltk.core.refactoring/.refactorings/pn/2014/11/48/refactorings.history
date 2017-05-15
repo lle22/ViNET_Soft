@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.pn.view.report.bean.ReportCongNoKHBean.isShowMaHang&apos; in &apos;com.pn.view.report.bean.ReportCongNoKHBean&apos;&#x0D;&#x0A;- Original project: &apos;pn&apos;&#x0D;&#x0A;- Original element: &apos;com.pn.view.report.bean.ReportCongNoKHBean.isShowMaHang&apos;&#x0D;&#x0A;- Getter method name: &apos;getIsShowMaHang&apos;&#x0D;&#x0A;- Setter method name: &apos;setIsShowMaHang&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;isShowMaHang&apos;" flags="589830" getter="getIsShowMaHang" id="org.eclipse.jdt.ui.self.encapsulate" input="/scr&lt;com.pn.view.report.bean{ReportCongNoKHBean.java[ReportCongNoKHBean^isShowMaHang" insertion="17" setter="setIsShowMaHang" stamp="1417258653250" version="1.0" visibility="1"/>
+</session>

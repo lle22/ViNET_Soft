@@ -1,0 +1,11 @@
+[2015-07-09 07:36:55] [info]  Commons Daemon procrun (1.0.7.0 32-bit) started
+[2015-07-09 07:36:57] [info]  Running 'Tomcat7' Service...
+[2015-07-09 07:36:58] [info]  Starting service...
+[2015-07-09 07:37:08] [info]  Service started in 10671 ms.
+[2015-07-09 17:35:14] [info]  Console LOGOFF event signaled
+[2015-07-09 17:35:18] [info]  Console LOGOFF event signaled
+[2015-07-09 17:35:28] [info]  Console SHUTDOWN event signaled
+[2015-07-09 17:35:28] [info]  Stopping service...
+[2015-07-09 17:35:30] [info]  Service stopped.
+[2015-07-09 17:35:30] [info]  Run service finished.
+[2015-07-09 17:35:30] [info]  Commons Daemon procrun finished

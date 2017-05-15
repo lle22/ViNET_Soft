@@ -1,0 +1,9 @@
+192.168.1.4 - - [23/Jan/2015:18:26:13 +0700] "GET /pn/login HTTP/1.1" 200 4954
+192.168.1.4 - - [23/Jan/2015:18:26:14 +0700] "GET /pn/resources/css/vpppn.css;jsessionid=A58AF6FA36E7A2BD97E1A45C0E198CD3 HTTP/1.1" 200 1133
+192.168.1.4 - - [23/Jan/2015:18:26:14 +0700] "GET /pn/resources/js/ultil.js;jsessionid=A58AF6FA36E7A2BD97E1A45C0E198CD3 HTTP/1.1" 200 21979
+192.168.1.4 - - [23/Jan/2015:18:26:14 +0700] "GET /pn/resources/css/style.css;jsessionid=A58AF6FA36E7A2BD97E1A45C0E198CD3 HTTP/1.1" 200 5157
+192.168.1.4 - - [23/Jan/2015:18:26:14 +0700] "GET /pn/resources/js/jquery-1.7.1.js;jsessionid=A58AF6FA36E7A2BD97E1A45C0E198CD3 HTTP/1.1" 200 257499
+192.168.1.4 - - [23/Jan/2015:18:26:15 +0700] "GET /pn/resources/images/body_bg.jpg HTTP/1.1" 200 318
+192.168.1.4 - - [23/Jan/2015:18:26:15 +0700] "GET /pn/resources/images/logo.jpg HTTP/1.1" 200 2738
+192.168.1.4 - - [23/Jan/2015:18:26:15 +0700] "GET /pn/resources/images/send_button.jpg HTTP/1.1" 200 1167
+192.168.1.4 - - [23/Jan/2015:18:26:16 +0700] "GET /favicon.ico HTTP/1.1" 200 21630

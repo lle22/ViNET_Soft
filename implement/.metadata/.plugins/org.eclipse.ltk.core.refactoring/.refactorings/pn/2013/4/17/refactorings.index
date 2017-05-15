@@ -1,0 +1,13 @@
+1367041110750	Delete element
+1367048613937	Copy file
+1367055000656	Delete element
+1367055005734	Delete element
+1367055007875	Delete element
+1367055010359	Delete element
+1367055023953	Delete element
+1367056592218	Encapsulate field 'emailClient'
+1367058709750	Rename field 'emailsubject'
+1367058721046	Encapsulate field 'emailSubject'
+1367062001046	Rename local variable 'emailClient'
+1367062784281	Delete element
+1367069356890	Encapsulate field 'attach'

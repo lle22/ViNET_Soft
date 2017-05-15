@@ -1,0 +1,10 @@
+
+2015-08-19 07:42:02 Commons Daemon procrun stderr initialized
+log4j:WARN No appenders could be found for logger (org.springframework.web.filter.CharacterEncodingFilter).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+
+2015-08-19 17:20:38 Commons Daemon procrun stderr initialized
+log4j:WARN No appenders could be found for logger (org.springframework.web.filter.CharacterEncodingFilter).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="60" key="org.eclipse.jdt.internal.debug.ui.actions.PopupDisplayAction$DisplayPopupDIALOG_HEIGHT"/>
+	<item value="498" key="org.eclipse.jdt.internal.debug.ui.actions.PopupDisplayAction$DisplayPopupDIALOG_Y_ORIGIN"/>
+	<item value="579" key="org.eclipse.jdt.internal.debug.ui.actions.PopupInspectAction$2DIALOG_WIDTH"/>
+	<item value="377" key="org.eclipse.jdt.internal.debug.ui.actions.PopupInspectAction$2DIALOG_X_ORIGIN"/>
+	<item value="4" key="org.eclipse.jdt.internal.debug.ui.actions.PopupInspectAction$2DIALOG_Y_ORIGIN"/>
+	<item value="194" key="org.eclipse.jdt.internal.debug.ui.actions.PopupDisplayAction$DisplayPopupDIALOG_WIDTH"/>
+	<item value="722" key="org.eclipse.jdt.internal.debug.ui.actions.PopupInspectAction$2DIALOG_HEIGHT"/>
+	<item value="41" key="org.eclipse.jdt.internal.debug.ui.actions.PopupDisplayAction$DisplayPopupDIALOG_X_ORIGIN"/>
+	<section name="org.eclipse.debug.ui.sourcelookup.SourceLookupDialog">
+		<item value="438" key="DIALOG_WIDTH"/>
+		<item value="244" key="DIALOG_Y_ORIGIN"/>
+		<item value="386" key="DIALOG_HEIGHT"/>
+		<item value="425" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Tahoma|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.debug.ui.SCOPED_SAVE_SELECTION_DIALOG">
+		<item value="350" key="DIALOG_WIDTH"/>
+		<item value="272" key="DIALOG_Y_ORIGIN"/>
+		<item value="473" key="DIALOG_X_ORIGIN"/>
+		<item value="350" key="DIALOG_HEIGHT"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.debug.ui.LAUNCH_CONFIGURATION_PROPERTIES_DIALOG_SECTION">
+		<item value="800" key="DIALOG_WIDTH"/>
+		<item value="79" key="DIALOG_Y_ORIGIN"/>
+		<item value="640" key="DIALOG_HEIGHT"/>
+		<item value="248" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.jdt.debug.ui.PROJECT_SELECTION_DIALOG_SECTION">
+		<item value="350" key="DIALOG_WIDTH"/>
+		<item value="-86" key="DIALOG_Y_ORIGIN"/>
+		<item value="350" key="DIALOG_HEIGHT"/>
+		<item value="60" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Tahoma|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+	</section>
+</section>

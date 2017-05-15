@@ -1,0 +1,39 @@
+[2015-03-26 07:35:56] [info]  Commons Daemon procrun (1.0.7.0 32-bit) started
+[2015-03-26 07:35:58] [info]  Running 'Tomcat7' Service...
+[2015-03-26 07:35:59] [info]  Starting service...
+[2015-03-26 07:36:14] [info]  Service started in 15437 ms.
+[2015-03-26 17:10:43] [info]  Console LOGOFF event signaled
+[2015-03-26 17:10:47] [info]  Console LOGOFF event signaled
+[2015-03-26 17:10:56] [info]  Console SHUTDOWN event signaled
+[2015-03-26 17:10:56] [info]  Stopping service...
+[2015-03-26 17:10:58] [info]  Service stopped.
+[2015-03-26 17:10:58] [info]  Run service finished.
+[2015-03-26 17:10:59] [info]  Commons Daemon procrun finished
+[2015-03-26 17:31:03] [info]  Commons Daemon procrun (1.0.7.0 32-bit) started
+[2015-03-26 17:31:05] [info]  Running 'Tomcat7' Service...
+[2015-03-26 17:31:05] [info]  Starting service...
+[2015-03-26 17:31:19] [info]  Service started in 13250 ms.
+[2015-03-26 18:17:04] [info]  Console LOGOFF event signaled
+[2015-03-26 18:17:08] [info]  Console LOGOFF event signaled
+[2015-03-26 18:22:58] [info]  Commons Daemon procrun (1.0.7.0 32-bit) started
+[2015-03-26 18:22:59] [info]  Running 'Tomcat7' Service...
+[2015-03-26 18:23:01] [info]  Starting service...
+[2015-03-26 18:23:12] [info]  Service started in 10781 ms.
+[2015-03-26 19:35:40] [info]  Console LOGOFF event signaled
+[2015-03-26 19:35:44] [info]  Console LOGOFF event signaled
+[2015-03-26 19:35:52] [info]  Console SHUTDOWN event signaled
+[2015-03-26 19:35:52] [info]  Stopping service...
+[2015-03-26 19:35:55] [info]  Service stopped.
+[2015-03-26 19:35:55] [info]  Run service finished.
+[2015-03-26 19:35:55] [info]  Commons Daemon procrun finished
+[2015-03-26 19:38:21] [info]  Commons Daemon procrun (1.0.7.0 32-bit) started
+[2015-03-26 19:38:21] [info]  Running 'Tomcat7' Service...
+[2015-03-26 19:38:21] [info]  Starting service...
+[2015-03-26 19:38:32] [info]  Service started in 10953 ms.
+[2015-03-26 19:54:30] [info]  Console LOGOFF event signaled
+[2015-03-26 19:54:37] [info]  Console LOGOFF event signaled
+[2015-03-26 19:54:38] [info]  Console SHUTDOWN event signaled
+[2015-03-26 19:54:38] [info]  Stopping service...
+[2015-03-26 19:54:41] [info]  Service stopped.
+[2015-03-26 19:54:41] [info]  Run service finished.
+[2015-03-26 19:54:41] [info]  Commons Daemon procrun finished

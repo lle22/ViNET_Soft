@@ -1,0 +1,1 @@
+<%@ tag isELIgnored="false" body-content="empty" %>http://${pageContext.request.serverName}:${pageContext.request.serverPort}${pageContext.request.contextPath}/images/

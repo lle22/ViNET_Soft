@@ -1,0 +1,62 @@
+.results-row {
+	background-color: #F0F8FF;
+	padding: 5px 10px;
+}
+
+.results-row:alt{
+	background: #DDE1E6;
+}
+
+.results-row:hover {
+	background: #BCC3CC;
+}
+.results-header {
+	background: #D1D6DC;
+}
+
+.results-header th, .results-header td {
+	color: #0004FF;
+	padding: 5px 10px;
+	font-weight: bold;
+	border-top-color: #7476DC 
+}
+.asterisk{
+	color: red;
+	font-size: 1.2em
+}
+td {
+	font-size: 10pt;
+	font-style: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #092B79; 
+	font-weight: bold
+}
+.TextListHeaders {
+	font-size: 10pt;
+	color : #0004FF;
+    font-family: Arial, Helvetica, sans-serif; 
+	vertical-align: middle; 
+	font-weight: bold;
+	background-color: #DEE6ED
+}
+
+.text {
+	color: #333333;
+	font-family: sans-serif;
+	font-size: 13px;
+	font-weight: normal;	
+}
+
+.TextFormVerificationRight {
+	color: #333333;
+	font-family: sans-serif;
+	font-size: 13px;
+	text-align: right;
+	font-weight: normal;
+}
+.TextSectionHeaders {
+	font-size: 11pt; color: #092B79; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-style: italic;
+}
+.delete{
+	cursor: pointer;
+}

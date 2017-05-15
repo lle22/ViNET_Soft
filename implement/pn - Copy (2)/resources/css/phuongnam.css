@@ -1,0 +1,221 @@
+#actionBean label {width: 80px;float: left;text-align: left;padding-right: 10px }
+.border{border:1px solid #999999}
+#actionBean div {margin-bottom: 5px;}
+form:input#bgrColor{
+	background-color: #FFFF33;
+	}
+td#Amber{
+	background-color: #FFBF00;
+	width: 2%
+	}
+td#Red{
+	background-color: #FF0000;
+	width: 2%
+	}
+td#Green{
+	background-color: #00FF00;
+	width: 2%
+	}
+td#Blue{
+	background-color: #0099FF;
+	width: 2%
+	}
+.comicFont {
+	font-family: "Comic Sans MS";
+	text-align: center;
+	font-size:18px;
+	}
+span#Pink{
+	color: #FF33CC
+	}
+span#Blue{
+	color: #0033FF
+	}
+span#Underline{
+	text-decoration:underline
+	}
+td#defaultMetricsColor{
+	background-color: #CCFFFF;
+	width: 2%
+	}	
+td#defaultCategoryColor{
+	background-color: #00CCFF;
+	width: 2%
+	}
+td#defaultMonthColor{
+	background-color: #00CCFF;
+	width: 2%
+	}		
+	
+.greenBold{
+	text-align: center;
+	color: green;
+	font-weight: bold
+}
+.blue{
+	text-align: center;
+	color: blue;
+}
+.blackBold{
+	text-align: center;
+	color: black;
+	font-weight: bold
+}
+.withinCategoryStyle{
+	background-color: #CCFFCC;
+	text-align: center;
+	color: blue
+}
+.categoryPercentStyle1{
+	background-color: #FFCC99;
+	border-style: solid;
+	border-width: medium;
+	border-color: #666666 #666666 #666666 #666666;
+	text-align: center;
+	color: blue;
+	font-weight: bold
+}
+.categoryPercentStyle2{
+	background-color: #CCCCCC;
+	text-align: center;
+	color: #666666;
+	font-weight: bold
+}
+.categoryStyle{
+	background-color: #CCFFFF;
+	text-align: left;
+	color: black;
+	font-weight: bold
+}
+.sumOfBscCategoryDefaultStyle{
+	background-color: #00CCFF;
+	text-align: center;
+	color: black
+}
+.coll{
+	table-layout: auto;
+	border-collapse: collapse
+}
+.headCountStyle{
+	background:#FFFF99;
+	background-color: #FFFF99;
+	background-position: center;
+	text-align: center;
+	color: black
+}
+.itemOfMetricStyle{
+	background-color: #FFFF99;
+	text-align: left;
+	color: black;
+}
+.metricStyle{
+	text-align: left;
+	color: black;
+	font-weight: bold
+}
+.overviewMetricStyle{
+	text-align: left;
+	width: 13%
+}
+.alignLeftStyle{
+	text-align:left
+}
+td.rightBorder{
+	border-right-style: solid;
+	border-right-width: medium;
+	border-right-color: #666666
+}
+td.rightBorder{
+	border-right-style: solid;
+	border-right-width: medium;
+	border-right-color: #666666
+}
+td.leftBorder{
+	border-left-style: solid;
+	border-left-width: medium;
+	border-left-color: #666666
+}
+td.topBorder{
+	border-top-style: solid;
+	border-top-width: medium;
+	border-top-color: #666666
+}
+td.bottomBorder{
+	border-bottom-style: solid;
+	border-bottom-width: medium;
+	border-bottom-color: #666666
+}
+td.rightBorder_red{
+	border-right-style: solid;
+	border-right-width: medium;
+	border-right-color: #CC0000
+}
+td.leftBorder_red{
+	border-left-style: solid;
+	border-left-width: medium;
+	border-left-color: #CC0000
+}
+td.topBorder_red{
+	border-top-style: solid;
+	border-top-width: medium;
+	border-top-color: #CC0000
+}
+td.bottomBorder_red{
+	border-bottom-style: solid;
+	border-bottom-width: medium;
+	border-bottom-color: #CC0000
+/* CSS Document */
+}
+.asterisk{
+	color: red;
+	font-size: 14
+}
+
+/*color*/
+.color-red{
+	color: red;
+	font-weight: bold
+}
+
+.color-amber{
+	color: maroon;
+	font-weight: bold
+}
+
+.color-green{
+	color: green;
+	font-weight: bold
+}
+
+.color-blue{
+	color: blue;
+	font-weight: bold
+}
+
+.bold{
+	font-weight: bold
+}
+#planBean label {width: 80px;float: left;text-align: left;padding-right: 10px }
+#planBean div {margin-bottom: 5px;}
+.lowColor {
+	background-color: #33CCFF;
+	text-align: left;
+}
+.mediumColor {
+	background-color: #FFFF00;
+	text-align: left;
+}
+.highColor {
+	background-color: #FF3333;
+	text-align: left;
+}
+.highLightBorder {
+	background-color: highlight;
+}
+
+#planRequestBean label {width: 80px;float: left;text-align: left;padding-right: 10px }
+#planRequestBean div {margin-bottom: 5px;}
+.planDate-focus {font-style: italic;}
+.courseName-focus {font-style: italic;}
+.clickable{float: left; width: : 80%;}
+#userlist div {margin-left:5px; width: : 80%;}

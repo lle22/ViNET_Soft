@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 1 package(s) to &apos;resources&apos;&#x0D;&#x0A;- Original project: &apos;Emailer&apos;&#x0D;&#x0A;- Destination element: &apos;resources&apos;&#x0D;&#x0A;- Original element: &apos;Emailer/src/main/resources/templates&apos;" description="Copy package" element1="/src\/main\/resources&lt;templates" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1367042056218" target="/pn/resources" version="1.0"/>
+</session>

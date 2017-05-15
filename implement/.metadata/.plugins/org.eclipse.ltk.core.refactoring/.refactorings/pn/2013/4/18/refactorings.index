@@ -1,0 +1,19 @@
+1367111807296	Encapsulate field 'attach'
+1367113157562	Encapsulate field 'attach'
+1367113479140	Encapsulate field 'attach'
+1367118759109	Delete element
+1367120401000	Encapsulate field 'id'
+1367159585937	Encapsulate field 'nguoiGiaoDich'
+1367159781843	Encapsulate field 'footer'
+1367167195812	Rename local variable 'address'
+1367167201265	Rename local variable 'ccAddress'
+1367168731625	Encapsulate field 'emailBcc'
+1367168836593	Encapsulate field 'emailBcc'
+1367250647328	Copy compilation units
+1367250659671	Rename type 'BCTongHopDao'
+1367250668890	Rename type 'BCTongHopDaoImpl'
+1367250760875	Copy compilation units
+1367250788656	Rename type 'BCTongHopService'
+1367250795500	Rename type 'BCTongHopServiceImpl'
+1367290916265	Encapsulate field 'tenVatTu_ChiTiet'
+1367293532125	Encapsulate field 'fileName'

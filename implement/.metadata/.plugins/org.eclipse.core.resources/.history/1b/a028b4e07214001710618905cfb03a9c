@@ -1,0 +1,117 @@
+package com.pn.view.invoice.controller;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import javax.servlet.http.HttpSession;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+
+import com.pn.model.BCTongHop;
+import com.pn.model.Customer.CustomerPotential;
+import com.pn.model.Customer.DTCongNo;
+import com.pn.model.dmEmployee.Employee;
+import com.pn.service.User.EmployeeService;
+import com.pn.service.bcTongHop.BCTongHopService;
+import com.pn.service.chungtu.ChungtuService;
+import com.pn.service.commentCustomer.CommentCustomerService;
+import com.pn.util.CreateWord;
+import com.pn.util.EmailClient;
+import com.pn.util.PNConstant;
+import com.pn.util.Ultil;
+import com.pn.view.commentCustomer.bean.CommentCustomerBean;
+import com.pn.view.commentCustomer.bean.FileUploadForm;
+import com.pn.view.invoice.bean.InvoiceBean;
+import com.pn.view.report.bean.ReportCongNoKHBean;
+import com.pn.view.report.controller.ExcelReportView;
+@Controller
+public class InvoiceController {
+    private String pathServer = "";
+    @Autowired
+    private BCTongHopService bCTongHopService;
+    @RequestMapping(value = "/getDocInvoice", method = RequestMethod.POST)
+    public String exportCongNoKhachHang(@ModelAttribute("invoiceBean") InvoiceBean invoiceBean, HttpSession session, Model model) {
+        String target = Ultil.checkPermission(session, model);
+        if (target != null) {
+            return target;
+        }
+        Map<String, Object> map = new HashMap<String, Object>();
+        this.setModel(model);
+        List<BCTongHop> bcCongNo = null;
+        target = "printInvoice";
+        try {
+            response.setContentType("application/msword");
+            response.setHeader("Content-disposition", "inline; filename="  + invoiceBean.getMaCty() + "_GTGT.doc");
+            PrintWriter writer = response.getWriter();
+            String wordTemplateFile = "HoaDonGTGTTemplate.xml";
+            if (invoiceBean.getIsKemBangKe()) {
+                wordTemplateFile = "HoaDonGTGTBKTemplate.xml";
+            }
+            CreateWord createWord = new CreateWord();            
+            String wordTemplate = createWord.createWordTemplate(invoiceBean, wordTemplateFile);
+            writer.println(wordTemplate);            
+            
+        } catch (Exception e) {
+            e.printStackTrace();
+            System.err.println(e.getCause());
+        }
+        return target;      
+    } 
+   
+    @RequestMapping(value = "/info", method = RequestMethod.GET)
+    public @ResponseBody DTCongNo getCustomerInfor(@RequestParam String customerID) {
+        List<DTCongNo>  customers = bCTongHopService.getListDoiTuongCongNo();
+        DTCongNo customer = new DTCongNo();
+        for (int i = 0; i < customers.size(); i++) {
+            if (customers.get(i).getId().equals(customerID)) {
+                customer = customers.get(i);
+                break;
+            }
+        }
+        return customer;
+    }
+    @RequestMapping(value="viewExport", method = RequestMethod.GET) 
+    public String viewExport(@ModelAttribute("reportCongNoKHBean") ReportCongNoKHBean reportBean,   
+            Model model, HttpSession session) {
+        String target = Ultil.checkPermission(session, model);
+        if (target != null) {
+            return target;
+        }
+        this.setModel(model);
+        session.setAttribute("menuItem", "viewExport");
+        return "export";
+    }
+    @RequestMapping(value = "/tonghop", method = RequestMethod.POST)    
+    public String tongHopData(@ModelAttribute("reportCongNoKHBean") ReportCongNoKHBean reportBean,
+            HttpSession session, Model model) {
+        String target = Ultil.checkPermission(session, model);
+        if (target != null) {
+            return target;
+        }
+        this.setModel(model);
+        int isError = bCTongHopService.tongHopData();
+        if (isError != 0) {
+            model.addAttribute("message", "Tổng hợp dữ liệu không thàng công.</br>Vui lòng tổng hợp lại.");
+        } else {
+            model.addAttribute("message", "Tổng hợp dữ liệu thàng công.");
+        }
+        return "export";
+    }
+    /**
+     * SetModel
+     * @param model
+     */
+    private void setModel(Model model){
+        List<DTCongNo> khachHang = bCTongHopService.getListDoiTuongCongNo();
+        model.addAttribute("khachHang", khachHang);
+    }   
+}
