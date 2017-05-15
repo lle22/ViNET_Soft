@@ -1,0 +1,985 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <ID>BCBKUTRUOC_KH</ID>
+    <TenChungTu>Bảng kê kết toán khoản ứng trước của khách hàng</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_BangKeUngTruocCuaKhachhang.rpt</PhieuIn>
+    <DieuKien>where left(TKID,4)='1312'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCKTKH</ID>
+    <TenChungTu>Chiết khấu bán hàng theo khách hàng</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_ThongKeChietKhautheoKH.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='511' and NoCo=1</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCKTMH</ID>
+    <TenChungTu>Chiết khấu bán hàng theo mặt hàng</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_ThongkeChietKhauTheoMH.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='511' and NoCo=1</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNHD</ID>
+    <TenChungTu>Công nợ phải thu theo hóa đơn</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongnoPhaiThuTheoHoaDon.rpt</PhieuIn>
+    <DieuKien />
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNKHNVKD</ID>
+    <TenChungTu>Theo dõi công nợ theo nhân viên kinh doanh</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongnoPhaiThuTongHop_TheoNhanvienKD.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='131' or left(TKID,3)='136'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNPTHCTTDT</ID>
+    <TenChungTu>Sổ chi tiết công nợ phải thu theo đối tượng</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongNoPhaiThuChiTiet.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='131' or left(TKID,3)='136'</DieuKien>
+    <DienGiai>Quản lý chi tiết công nợ phát sinh của từng đối tượng công nợ cụ thể, đáp ứng nhu cầu theo dõi chi tiết công nợ của tất cả các đối tượng phát sinh trong kỳ</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNPTHCTTDT_NT</ID>
+    <TenChungTu>Sổ chi tiết công nợ phải thu theo đối tượng (ngoại tệ)</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongnoPhaithuChiTiet_NT_VND.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='131' or left(TKID,3)='136'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNPTHCTTDT_ThuTruoc</ID>
+    <TenChungTu>Sổ chi tiết công nợ phải thu theo đối tượng (tách khách hàng trả trước)</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongNoPhaiThuChiTiet_ThuTruoc.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='131' or left(TKID,3)='136'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNPTHTHTDT</ID>
+    <TenChungTu>Sổ tổng hợp công nợ phải thu theo đối tượng</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongNoPhaiThuTongHop.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='131' or left(TKID,3)='136'</DieuKien>
+    <DienGiai>Theo dõi công nợ tổng hợp của khách hàng</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNPTHTHTDT_NT</ID>
+    <TenChungTu>Sổ tổng hợp công nợ phải thu theo đối tượng (ngoại tệ)</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongnoPhaiThuTongHop_NT_VND.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='131' or left(TKID,3)='136'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNPTHTHTDT_ThuTruoc</ID>
+    <TenChungTu>Sổ tổng hợp công nợ phải thu theo đối tượng (Tách khách hàng trả trước)</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongNoPhaiThuTongHop_ThuTruoc.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='131' or left(TKID,3)='136'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNTHTDT</ID>
+    <TenChungTu>Bảng khấu trừ công nợ</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_SoKhauTruCongno.rpt</PhieuIn>
+    <DieuKien> where left(TKID,3)='131' or left(TKID,3)='136' or left(TKID,3)='331' or left(TKID,3)='336'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCDSBTBP</ID>
+    <TenChungTu>Tổng hợp doanh số bán hàng theo bộ phận</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_DoanhSoTheoBoPhan.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='511' and NoCo=1</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCDSBTCAP</ID>
+    <TenChungTu>Doanh số bán hàng theo cấp</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_DoanhSoTheoCap.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='511' and NoCo=1</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCDSBTKHCT</ID>
+    <TenChungTu>Chi tiết doanh số bán theo khách hàng</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_DoanhSoTheoKHChiTiet.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='511' and NoCo=1</DieuKien>
+    <DienGiai>Theo dõi chi tiết doanh số bán hàng theo từng khách hàng</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCDSBTKHTH</ID>
+    <TenChungTu>Tổng hợp doanh số bán theo khách hàng</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_DoanhSoTheoKHTongHop.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='511' and NoCo=1</DieuKien>
+    <DienGiai>Theo dõi doanh số bán hàng tổng hợp theo từng khách hàng</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCDSBTMHCT</ID>
+    <TenChungTu>Chi tiết doanh số bán theo mặt hàng</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_DoanhSoTheoMHChiTiet.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='511' and NoCo=1</DieuKien>
+    <DienGiai>Theo dõi chi tiết doanh số bán hàng theo từng mặt hàng</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCDSBTMHTH</ID>
+    <TenChungTu>Tổng hợp doanh số bán theo mặt hàng</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_DoanhSoTheoMHTongHop.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='511' and NoCo=1</DieuKien>
+    <DienGiai>Theo dõi doanh số bán hàng tổng hợp theo từng mặt hàng</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCDSKHCN</ID>
+    <TenChungTu>Danh sách khách hàng còn nợ</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_DanhSachKhachhangConNo.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='131'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCDSTNVKD</ID>
+    <TenChungTu>Tổng hợp doanh số bán theo nhân viên kinh doanh</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_DoanhSoTheoNhanvienKD.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='511' and NoCo=1</DieuKien>
+    <DienGiai>Theo dõi doanh số bán hàng theo từng nhân viên kinh doanh trong công ty</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCHDDHTT</ID>
+    <TenChungTu>Hoá đơn đến hạn thanh toán</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_HoaDonDenHanThanhToan.rpt</PhieuIn>
+    <DieuKien>where left(TKID,2)='13' and NoCo=-1</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCKTCN_NT</ID>
+    <TenChungTu>Bảng khấu trừ công nợ (ngoại tệ)</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_SoKhauTruCongnoNT.rpt</PhieuIn>
+    <DieuKien> where left(TKID,3)='131' or left(TKID,3)='136' or left(TKID,3)='331' or left(TKID,3)='336'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCNKBH</ID>
+    <TenChungTu>Nhật ký bán hàng</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_NhatKyBanHang_SL.rpt</PhieuIn>
+    <DieuKien>where (left(TKID,3)='511' or left(TKID,4)='3331') and NoCo=1</DieuKien>
+    <DienGiai>Nhật ký bán hàng chi tiết</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+    <NhatKyChung>true</NhatKyChung>
+  </Table>
+  <Table>
+    <ID>BCPTLNTMH</ID>
+    <TenChungTu>Phân tích lợi nhuận theo mặt hàng</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_PhantichloiNhuanTheoMatHang.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='511' and VatTuID is not null</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCSCTBH</ID>
+    <TenChungTu>Sổ chi tiết bán hàng</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_SoChiTietBanHang.rpt</PhieuIn>
+    <DieuKien>where (left(TKID,3)='511' and NoCo=1) or (left(TKID,3)='521' and NoCo=-1) or (left(TKID,2)='53' and NoCo=-1) or (left(TKID,3)='333' and NoCo=-1) </DieuKien>
+    <DienGiai>Theo dõi chi tiết bán hàng theo từng mặt hàng cụ thể</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCTDHOAHONG</ID>
+    <TenChungTu>Theo dõi hoa hồng khách hàng</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_TheoDoiHoaHongKhachhang.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='511' and NoCo=1</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCTKDSO</ID>
+    <TenChungTu>Báo cáo tổng hợp doanh số bán theo thứ tự</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_DoanhSoTheoKHTongHop_SapXep.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='511' and NoCo=1</DieuKien>
+    <DienGiai>Sắp xếp doanh số mua hàng theo thứ tự của khách hàng</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCTTCN</ID>
+    <TenChungTu>Tính tuổi công nợ</TenChungTu>
+    <LoaiNghiepVu>1.Kế toán bán hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_TinhTuoiCongNo.rpt</PhieuIn>
+    <DieuKien />
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNPTRAHD</ID>
+    <TenChungTu>Công nợ phải trả theo hóa đơn</TenChungTu>
+    <LoaiNghiepVu>2.Kế toán mua hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongnoPhaiTraTheoHoaDon.rpt</PhieuIn>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNPTRTDTCT</ID>
+    <TenChungTu>Sổ chi tiết công nợ phải trả theo đối tượng</TenChungTu>
+    <LoaiNghiepVu>2.Kế toán mua hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongnoPhaitraChiTiet.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='331' or left(TKID,3)='336'</DieuKien>
+    <DienGiai>Theo dõi chi tiết công nợ phải trả nhà cung cấp</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNPTRTDTCT_NT</ID>
+    <TenChungTu>Sổ chi tiết công nợ phải trả theo đối tượng (ngoại tệ)</TenChungTu>
+    <LoaiNghiepVu>2.Kế toán mua hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongnoPhaitraChiTiet_NT_VND.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='331' or left(TKID,3)='336'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNPTRTDTCT_TraTuoc</ID>
+    <TenChungTu>Sổ chi tiết công nợ phải trả theo đối tượng (Tách trả trước)</TenChungTu>
+    <LoaiNghiepVu>2.Kế toán mua hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongnoPhaitraChiTiet_TraTruoc.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='331' or left(TKID,3)='336'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNPTRTDTTH</ID>
+    <TenChungTu>Sổ tổng hợp công nợ phải trả theo đối tượng</TenChungTu>
+    <LoaiNghiepVu>2.Kế toán mua hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongnoPhaitraTongHop.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='331' or left(TKID,3)='336'</DieuKien>
+    <DienGiai>Theo dõi tổng hợp công nợ phải trả nhà cung cấp</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNPTRTDTTH_NT</ID>
+    <TenChungTu>Sổ tổng hợp công nợ phải trả theo đối tượng (ngoại tệ)</TenChungTu>
+    <LoaiNghiepVu>2.Kế toán mua hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongnoPhaitraTongHop_NT_VND.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='331' or left(TKID,3)='336'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCNPTRTDTTH_TraTruoc</ID>
+    <TenChungTu>Sổ tổng hợp công nợ phải trả theo đối tượng (Tách trả trước)</TenChungTu>
+    <LoaiNghiepVu>2.Kế toán mua hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_CongnoPhaitraTongHop_TraTruoc.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='331' or left(TKID,3)='336'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCHDDHPTR</ID>
+    <TenChungTu>Hoá đơn đến hạn phải trả</TenChungTu>
+    <LoaiNghiepVu>2.Kế toán mua hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_HoaDonDenHanPhaiTra.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='331' and NoCo=1</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+    <NhatKyChung>false</NhatKyChung>
+  </Table>
+  <Table>
+    <ID>BCNKMH</ID>
+    <TenChungTu>Nhật ký mua hàng</TenChungTu>
+    <LoaiNghiepVu>2.Kế toán mua hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_NhatKyMuaHang.rpt</PhieuIn>
+    <DieuKien>where (left(TKID,2)='15' and left(TKID,3)&lt;&gt;'154') and NoCo=-1</DieuKien>
+    <DienGiai>Nhật ký mua hàng chi tiết</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+    <NhatKyChung>true</NhatKyChung>
+  </Table>
+  <Table>
+    <ID>BCTKMH</ID>
+    <TenChungTu>Thống kê mua hàng</TenChungTu>
+    <LoaiNghiepVu>2.Kế toán mua hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_ThongKeMuahang.rpt</PhieuIn>
+    <DieuKien>where (left(TKID,2)='15' and left(TKID,3)&lt;&gt;'154') and left(TkDoiUngID,1)&lt;&gt;'6' and NoCo=-1</DieuKien>
+    <DienGiai>Thống kê mua hàng theo các tiêu chí quy định</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCTTCN_PTRA</ID>
+    <TenChungTu>Tính tuổi công nợ phải trả</TenChungTu>
+    <LoaiNghiepVu>2.Kế toán mua hàng</LoaiNghiepVu>
+    <PhieuIn>rpt_TinhTuoiCongNo_PhaiTra.rpt</PhieuIn>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBKNK</ID>
+    <TenChungTu>Bảng kê nhập kho</TenChungTu>
+    <LoaiNghiepVu>3.Kế toán kho</LoaiNghiepVu>
+    <PhieuIn>rpt_BangKeNhapKho.rpt</PhieuIn>
+    <DieuKien>where (left(TKID,2)='15' and left(TKID,3)&lt;&gt;'154') and NoCo=-1 and VatTuID is not null</DieuKien>
+    <DienGiai>Bảng kê nhập kho chi tiết</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBKXK</ID>
+    <TenChungTu>Bảng kê xuất kho</TenChungTu>
+    <LoaiNghiepVu>3.Kế toán kho</LoaiNghiepVu>
+    <PhieuIn>rpt_BangKeXuatKho.rpt</PhieuIn>
+    <DieuKien>where (left(TKID,2)='15' and left(TKID,3)&lt;&gt;'154') and NoCo=1 and VatTuID is not null</DieuKien>
+    <DienGiai>Bảng kê xuất kho chi tiết</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCNXTCT</ID>
+    <TenChungTu>Sổ chi tiết Nhập - Xuất - Tồn</TenChungTu>
+    <LoaiNghiepVu>3.Kế toán kho</LoaiNghiepVu>
+    <PhieuIn>rpt_ChiTietNXT.rpt</PhieuIn>
+    <DieuKien>where (left(TKID,2)='15' and left(TKID,3)&lt;&gt;'154')  and VatTuID is not null</DieuKien>
+    <DienGiai>Theo dõi chi tiết nhập, xuất, tồn kho của từng loại vật tư, mặt hàng trong kho</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCNXTCT_CHIPHI</ID>
+    <TenChungTu>Sổ chi tiết Nhập - Xuất -Tồn (Mã chi phí)</TenChungTu>
+    <LoaiNghiepVu>3.Kế toán kho</LoaiNghiepVu>
+    <PhieuIn>rpt_SoChiTietVatTuHH_TheoDoiChiPhi.rpt</PhieuIn>
+    <DieuKien />
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCNXTCTH</ID>
+    <TenChungTu>Chi Tiết N-X-T mặt hàng</TenChungTu>
+    <LoaiNghiepVu>3.Kế toán kho</LoaiNghiepVu>
+    <PhieuIn>rpt_TongHopNXT(Tien)1.rpt</PhieuIn>
+    <DieuKien>where (left(TKID,2)='15' and left(TKID,3)&lt;&gt;'154')  and VatTuID is not null</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCNXTTH</ID>
+    <TenChungTu>Sổ tổng hợp Nhập - Xuất - Tồn</TenChungTu>
+    <LoaiNghiepVu>3.Kế toán kho</LoaiNghiepVu>
+    <PhieuIn>rpt_TongHopNXT.rpt</PhieuIn>
+    <DieuKien>where (left(TKID,2)='15' and left(TKID,3)&lt;&gt;'154')  and VatTuID is not null</DieuKien>
+    <DienGiai>Theo dõi tổng hợp nhập, xuất, tồn kho của tất cả các loại vật tư, hàng hóa, nguyên liệu,... trong kho</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCNXTTHTIEN</ID>
+    <TenChungTu>Số tổng hợp Nhập - Xuất - Tồn (Tiền)</TenChungTu>
+    <LoaiNghiepVu>3.Kế toán kho</LoaiNghiepVu>
+    <PhieuIn>rpt_TongHopNXT(Tien).rpt</PhieuIn>
+    <DieuKien>where (left(TKID,2)='15' and left(TKID,3)&lt;&gt;'154')  and VatTuID is not null</DieuKien>
+    <DienGiai>Theo dõi tổng hợp nhập, xuất, tồn kho của tất cả các loại vật tư, hàng hóa, nguyên liệu,... trong kho kết hợp theo dõi số tiền thực tế phát sinh theo hàng hóa, vật tư</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCSCTVTHH</ID>
+    <TenChungTu>Sổ chi tiết vật tư hàng hoá</TenChungTu>
+    <LoaiNghiepVu>3.Kế toán kho</LoaiNghiepVu>
+    <PhieuIn>rpt_SoChiTietVatTuHH.rpt</PhieuIn>
+    <DieuKien>where (left(TKID,2)='15' and left(TKID,3)&lt;&gt;'154')  and VatTuID is not null</DieuKien>
+    <DienGiai>Sổ chi tiết vật tư, hàng hoá</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCTHCTVTHH</ID>
+    <TenChungTu>Bảng tổng hợp chi tiết vật liệu,dụng cụ,sản phẩm, hàng hoá</TenChungTu>
+    <LoaiNghiepVu>3.Kế toán kho</LoaiNghiepVu>
+    <PhieuIn>rpt_TongHopChiTietVTHH.rpt</PhieuIn>
+    <DieuKien>where (left(TKID,2)='15' and left(TKID,3)&lt;&gt;'154')</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCTHEKHO</ID>
+    <TenChungTu>Thẻ kho</TenChungTu>
+    <LoaiNghiepVu>3.Kế toán kho</LoaiNghiepVu>
+    <PhieuIn>rpt_TheKho.rpt</PhieuIn>
+    <DieuKien>where (left(TKID,2)='15' and left(TKID,3)&lt;&gt;'154')  and VatTuID is not null</DieuKien>
+    <DienGiai>Thẻ kho hàng hóa</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCTHNXT_CHPHI</ID>
+    <TenChungTu>Tổng hợp Nhập - Xuất - Tồn (Mã chi phí)</TenChungTu>
+    <LoaiNghiepVu>3.Kế toán kho</LoaiNghiepVu>
+    <PhieuIn>rpt_TongHopNXT_TheoDoiChiPhi.rpt</PhieuIn>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCGTTTTUNG</ID>
+    <TenChungTu>Giấy thanh toán tiền tạm ứng</TenChungTu>
+    <LoaiNghiepVu>4.Kế toán vốn bằng tiền</LoaiNghiepVu>
+    <PhieuIn>rpt_GiayThanhToanTienTamUng.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='141'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCNKCT</ID>
+    <TenChungTu>Nhật ký chi tiền</TenChungTu>
+    <LoaiNghiepVu>4.Kế toán vốn bằng tiền</LoaiNghiepVu>
+    <PhieuIn>rpt_NhatKyChiTien.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='111' and NoCo=1</DieuKien>
+    <DienGiai>Nhật ký ch tiền chi tiết</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+    <NhatKyChung>true</NhatKyChung>
+  </Table>
+  <Table>
+    <ID>BCNKTT</ID>
+    <TenChungTu>Nhật ký thu tiền</TenChungTu>
+    <LoaiNghiepVu>4.Kế toán vốn bằng tiền</LoaiNghiepVu>
+    <PhieuIn>rpt_NhatKyThuTien.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='111' and NoCo=-1</DieuKien>
+    <DienGiai>Nhật ký thu tiền chi tiết</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+    <NhatKyChung>true</NhatKyChung>
+  </Table>
+  <Table>
+    <ID>BCSCTTGNH</ID>
+    <TenChungTu>Sổ chi tiết tiền gởi ngân hàng</TenChungTu>
+    <LoaiNghiepVu>4.Kế toán vốn bằng tiền</LoaiNghiepVu>
+    <PhieuIn>rpt_SoQuyTienGoiNganhang.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='112' </DieuKien>
+    <DienGiai>Theo dõi chi tiết tiền gởi ngân hàng theo từng tài khoản ngân hàng cụ thể</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCSCTTGNHNT</ID>
+    <TenChungTu>Sổ chi tiết tiền ngoại tệ gởi ngân hàng</TenChungTu>
+    <LoaiNghiepVu>4.Kế toán vốn bằng tiền</LoaiNghiepVu>
+    <PhieuIn>rpt_SoQuyTienGoiNganhangNT.rpt</PhieuIn>
+    <DieuKien>where left(TKID,4)='1122' </DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCSQTM</ID>
+    <TenChungTu>Sổ quỹ tiền mặt</TenChungTu>
+    <LoaiNghiepVu>4.Kế toán vốn bằng tiền</LoaiNghiepVu>
+    <PhieuIn>rpt_SoquyTienMat.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='111'</DieuKien>
+    <DienGiai>Sổ quỹ theo dõi tiền mặt phát sinh</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCSQTMNT</ID>
+    <TenChungTu>Sổ quỹ tiền ngoại tệ</TenChungTu>
+    <LoaiNghiepVu>4.Kế toán vốn bằng tiền</LoaiNghiepVu>
+    <PhieuIn>rpt_SoQuyTienMatNT.rpt</PhieuIn>
+    <DieuKien>where left(TKID,4)='1112'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BC_BKCT</ID>
+    <TenChungTu>Bảng kê chứng từ</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>xls_NhatKyChungTu.xls</PhieuIn>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+    <NhatKyChungTu>true</NhatKyChungTu>
+  </Table>
+  <Table>
+    <ID>BC_SCTTKGoc</ID>
+    <TenChungTu>Sổ chi tiết tài khoản (tài khoản gốc)</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_SoChiTietTaiKhoan_TKGoc.rpt</PhieuIn>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBCDTK</ID>
+    <TenChungTu>Bảng cân đối tài khoản chi tiết</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_BangCanDoiTaiKhoanChiTiet.rpt</PhieuIn>
+    <DienGiai>Bảng cân đối tài khoản theo chi tiết tài khoản con</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBCDTKCap1</ID>
+    <TenChungTu>Bảng cân đối tài khoản cấp 1</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_BangCanDoiTaiKhoanCap1.rpt</PhieuIn>
+    <DienGiai>Bảng cân đối tài khoản chỉ bao gồm các tài khoản cấp 1</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBKPKC</ID>
+    <TenChungTu>Bảng kê phiếu kết chuyển</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_BangKePhieuKetChuyen.rpt</PhieuIn>
+    <DieuKien>where left(TKID,2)='91'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBKPSYTQL</ID>
+    <TenChungTu>Sổ chi tiết phát sinh theo vụ việc</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_BangKePhatSinhTheoYTQL.rpt</PhieuIn>
+    <DienGiai>Quản lý các khoản mục phát sinh theo các yếu tố quản lý chi tiết đã được phân tích và theo dõi</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBKTKYTQL</ID>
+    <TenChungTu>Bảng kê tài khoản theo vụ việc</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_BangKeTaiKhoanTheoYTQL.rpt</PhieuIn>
+    <DieuKien>where YeuToQuanLyID is not null</DieuKien>
+    <DienGiai>Quản lý các khoản mục tài khoản phát sinh theo yếu tố quản lý</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCCTGS</ID>
+    <TenChungTu>Chứng từ ghi sổ</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_ChungTuGhiSo.rpt</PhieuIn>
+    <DieuKien>where NoCo=-1</DieuKien>
+    <DienGiai>Chứng từ ghi sổ các nghiệp vụ phát sinh</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+    <ChungTuGhiSo>true</ChungTuGhiSo>
+  </Table>
+  <Table>
+    <ID>BCCTTU</ID>
+    <TenChungTu>Sổ chi tiết tạm ứng</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_TamUngChiTiet.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='141'</DieuKien>
+    <DienGiai>Theo dõi chi tiết các khoản tạm ứng phát sinh</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCDSPS_TheoVuViec</ID>
+    <TenChungTu>Bảng cân đối số phát sinh (theo vụ việc)</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_BangCanDoiTaiKhoanChiTiet_VuViec.rpt</PhieuIn>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCNKCHUNG</ID>
+    <TenChungTu>Nhật ký chung</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_NhatKyChung.rpt</PhieuIn>
+    <DienGiai>Sổ nhật ký chung các khoản mục phát sinh</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+    <NhatKyChung>true</NhatKyChung>
+  </Table>
+  <Table>
+    <ID>BCNKSOCAI</ID>
+    <TenChungTu>Nhật ký - Sổ cái</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_NhatKySoCai.rpt</PhieuIn>
+    <DieuKien>where NoCo=-1</DieuKien>
+    <DienGiai>Sổ Nhật ký - Sổ cái các khoản mục phát sinh</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+    <NhatKySoCai>true</NhatKySoCai>
+  </Table>
+  <Table>
+    <ID>BCSCPSXKD</ID>
+    <TenChungTu>Sổ chi phí sản xuất kinh doanh</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_SoChiPhiSanXuatKinhDoanh2.rpt</PhieuIn>
+    <DienGiai>Theo dõi các loại hình chi phí sản xuất, kinh doanh phát sinh</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCSCTKCT</ID>
+    <TenChungTu>Sổ cái tài khoản chữ T</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_SoCaiTKChuT.rpt</PhieuIn>
+    <DienGiai>Sổ cái tài khoản chữ T theo yêu cầu của hình thức Nhật ký sổ cái</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+    <NhatKyChung>true</NhatKyChung>
+    <NhatKySoCai>true</NhatKySoCai>
+  </Table>
+  <Table>
+    <ID>BCSCTKCTGS</ID>
+    <TenChungTu>Sổ cái tài khoản (chứng từ ghi sổ)</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_SoCaiChungTuGhiSo.rpt</PhieuIn>
+    <DienGiai>Sổ cái tài khoản kết hợp chứng từ ghi sổ theo khoản mục phát sinh</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+    <ChungTuGhiSo>true</ChungTuGhiSo>
+  </Table>
+  <Table>
+    <ID>BCSCTTK</ID>
+    <TenChungTu>Sổ chi tiết tài khoản</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_SoChiTietTaiKhoan.rpt</PhieuIn>
+    <DienGiai>Sổ chi tiết phát sinh theo từng tài khoản trong hệ thống tài khoản</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCSDKCTGS</ID>
+    <TenChungTu>Sổ đăng ký chứng từ ghi sổ</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_SoDKCTGS.rpt</PhieuIn>
+    <DieuKien>where NoCo=-1</DieuKien>
+    <DienGiai>Lập sổ đăng ký các chứng từ ghi sổ</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+    <ChungTuGhiSo>true</ChungTuGhiSo>
+  </Table>
+  <Table>
+    <ID>BCTHTU</ID>
+    <TenChungTu>Sổ tổng hợp tạm ứng</TenChungTu>
+    <LoaiNghiepVu>5.Kế toán tổng hợp</LoaiNghiepVu>
+    <PhieuIn>rpt_TamUngTongHop.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='141'</DieuKien>
+    <DienGiai>Theo dõi tổng hợp tạm ứng trong đơn vị</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDCNKV</ID>
+    <TenChungTu>Biểu đồ công nợ theo khu vực</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDoDoanhSoTheoKhuVuc.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='131'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDCNNKH</ID>
+    <TenChungTu>Biểu đồ công nợ theo loại khách hàng</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDocCongNoTheoLoaiKhachHang.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='131'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDCNPTHT</ID>
+    <TenChungTu>Biểu đồ công nợ phải thu theo tháng</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDoCNPTHThang.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='131' or left(TKID,3)='136'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDCNPTRT</ID>
+    <TenChungTu>Biểu đồ công nợ phải trả theo tháng</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDoCNPTTRhang.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='331' or left(TKID,3)='336'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDCPT</ID>
+    <TenChungTu>Biểu đồ chi phí theo tháng</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDoChiPhiThang.rpt</PhieuIn>
+    <DieuKien>where left(TKID,1)='6'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDCPTTK</ID>
+    <TenChungTu>Biểu đồ phân tích chi phí theo tài khoản</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDoPhantichChiPhiTheoTaiKhoan.rpt</PhieuIn>
+    <DieuKien>where NoCo=-1 and left(TKID,1)='6'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDDST</ID>
+    <TenChungTu>Biểu đồ doanh số tháng</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDoDoanhSoTheoThang.rpt</PhieuIn>
+    <DieuKien>where left(TKID,2)='51' and NoCo=1</DieuKien>
+    <DienGiai>Theo dõi biểu đồ doanh số bán tổng cộng theo từng tháng</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDDSTKV</ID>
+    <TenChungTu>Biểu đồ doanh số theo khu vực</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDoDoanhSoTheoKhuVuc.rpt</PhieuIn>
+    <DieuKien>where left(TKID,2)='51' and NoCo=1</DieuKien>
+    <DienGiai>Biểu đồ doanh số theo từng khu vực kinh doanh</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDDSTLKH</ID>
+    <TenChungTu>Biểu đồ doanh số theo loại khách hàng</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDoDoanhSoTheoLoaiKhachHang.rpt</PhieuIn>
+    <DieuKien>where left(TKID,2)='51' and NoCo=1</DieuKien>
+    <DienGiai>Biểu đồ doanh số theo từng loại khách hàng</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDDSTNVKD</ID>
+    <TenChungTu>Biểu đồ doanh số theo nhân viên kinh doanh</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDoDoanhSoTheoNVKD.rpt</PhieuIn>
+    <DieuKien>where left(TKID,2)='51' and NoCo=1</DieuKien>
+    <DienGiai>Biểu đồ doanh số theo nhân viên kinh doanh</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDLNT</ID>
+    <TenChungTu>Biểu đồ lợi nhuận theo tháng</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDoLoiNhuanThang.rpt</PhieuIn>
+    <DieuKien>where left(TKID,3)='421'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDTK</ID>
+    <TenChungTu>Biểu đồ tồn kho</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDoTonKho.rpt</PhieuIn>
+    <DieuKien>where left(TKID,2)='15'  and VatTuID is not null</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDTKT</ID>
+    <TenChungTu>Biểu đồ tồn kho theo tháng</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDoTonkhoThang.rpt</PhieuIn>
+    <DieuKien>where left(TKID,2)='15' and left(TKID,3)&lt;&gt;'154' and VatTuID is not null</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDTMT</ID>
+    <TenChungTu>Biểu đồ tiền mặt theo tháng</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDoTienMatThang.rpt</PhieuIn>
+    <DieuKien>where left(TKID,2)='11'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBDTNH</ID>
+    <TenChungTu>Biểu đồ doanh số theo nhóm hàng</TenChungTu>
+    <LoaiNghiepVu>6.Báo cáo quản trị</LoaiNghiepVu>
+    <PhieuIn>rpt_BieuDoDoanhSoTheoNhomHang.rpt</PhieuIn>
+    <DieuKien>where left(TKID,2)='51' and NoCo=1</DieuKien>
+    <DienGiai>Theo dõi biểu đồ doanh số bán theo nhóm hàng</DienGiai>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBKCP</ID>
+    <TenChungTu>Bảng kê chứng từ theo khoản mục chi phí</TenChungTu>
+    <LoaiNghiepVu>7.Báo cáo chi phí</LoaiNghiepVu>
+    <PhieuIn>rpt_BangKeChungTuTheoKhoanMucChiphi.rpt</PhieuIn>
+    <DieuKien>where KhoanMucChiPhi is not null</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBPBTL_BHXH</ID>
+    <TenChungTu>Bảng phân bổ tiền lương và bảo hiểm xã hội</TenChungTu>
+    <LoaiNghiepVu>7.Báo cáo chi phí</LoaiNghiepVu>
+    <PhieuIn>rpt_BangPhanBoTienLuongVaBHXH.rpt</PhieuIn>
+    <DieuKien>where left(TKCoID,3)='334'  or left(TKID,4) in ('3382','3383','3384') or left(TKID,3)='335'</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCSCPBH</ID>
+    <TenChungTu>Sổ chi phí bán hàng</TenChungTu>
+    <LoaiNghiepVu>7.Báo cáo chi phí</LoaiNghiepVu>
+    <PhieuIn>rpt_SoChiPhiBanhang.rpt</PhieuIn>
+    <DieuKien>where  left(TKID,3)='641' and NoCo=-1</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCSCPQLDN</ID>
+    <TenChungTu>Sổ chi phí quản lý doanh nghiệp</TenChungTu>
+    <LoaiNghiepVu>7.Báo cáo chi phí</LoaiNghiepVu>
+    <PhieuIn>rpt_SoChiPhiQLDN.rpt</PhieuIn>
+    <DieuKien>where  left(TKID,3)='642' and NoCo=-1</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCTHPSCP</ID>
+    <TenChungTu>Tổng hợp số phát sinh theo khoản mục chi phí</TenChungTu>
+    <LoaiNghiepVu>7.Báo cáo chi phí</LoaiNghiepVu>
+    <PhieuIn>rpt_TongHopPhatSinhTheoKhoanMucChiPhi.rpt</PhieuIn>
+    <DieuKien>where KhoanMucChiPhi is not null</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCTHPSCP_PB</ID>
+    <TenChungTu>Tổng hợp chi phí phát sinh theo phòng ban</TenChungTu>
+    <LoaiNghiepVu>7.Báo cáo chi phí</LoaiNghiepVu>
+    <PhieuIn>rpt_TongHopPhatSinhTheoKhoanMucChiPhi_PhongBan.rpt</PhieuIn>
+    <DieuKien>where PhongBanID is not null</DieuKien>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBCDSPS_HopNhat</ID>
+    <TenChungTu>Bảng cân đối số phát sinh hợp nhất</TenChungTu>
+    <LoaiNghiepVu>8.Báo cáo hợp nhất nhiều chi nhánh</LoaiNghiepVu>
+    <PhieuIn>rpt_BangCanDoiTaiKhoanChiTiet_HopNhat.rpt</PhieuIn>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBCSPS_HopNhat_VuViec</ID>
+    <TenChungTu>Bảng cân đối số phát sinh (Theo vụ việc)</TenChungTu>
+    <LoaiNghiepVu>8.Báo cáo hợp nhất nhiều chi nhánh</LoaiNghiepVu>
+    <PhieuIn>rpt_BangCanDoiTaiKhoanChiTiet_HopNhat_VuViec.rpt</PhieuIn>
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBCPSXGT_VV</ID>
+    <TenChungTu>Bảng chi phí sản xuất giá thành</TenChungTu>
+    <LoaiNghiepVu>8.Báo cáo vụ việc,công trình</LoaiNghiepVu>
+    <PhieuIn>rpt_BangChiPhiSanXuatvaGiaThanhCongTrinh.rpt</PhieuIn>
+    <BCCPVV>true</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCSDSCP_VV</ID>
+    <TenChungTu>Sổ theo dõi doanh số,chi phí và lợi nhuận công trình</TenChungTu>
+    <LoaiNghiepVu>8.Báo cáo vụ việc,công trình</LoaiNghiepVu>
+    <PhieuIn>rpt_BangDoanhSovaGiaThanhCongTrinh.rpt</PhieuIn>
+    <BCCPVV>true</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCSGTCT</ID>
+    <TenChungTu>Sổ giá thành công trình</TenChungTu>
+    <LoaiNghiepVu>8.Báo cáo vụ việc,công trình</LoaiNghiepVu>
+    <PhieuIn>rpt_SoGiaThanhCongTrinh.rpt</PhieuIn>
+    <BCCPVV>true</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCTGTHANH_VV</ID>
+    <TenChungTu>Thẻ tính giá thành</TenChungTu>
+    <LoaiNghiepVu>8.Báo cáo vụ việc,công trình</LoaiNghiepVu>
+    <PhieuIn>rpt_TheGiaThanh.rpt</PhieuIn>
+    <BCCPVV>true</BCCPVV>
+    <BCThanhPham>false</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCBCPSXGT_TP</ID>
+    <TenChungTu>Bảng chi phí sản xuất giá thành</TenChungTu>
+    <LoaiNghiepVu>9.Báo cáo giá thành sản xuất</LoaiNghiepVu>
+    <PhieuIn>rpt_BangChiPhiSanXuatThanhPham.rpt</PhieuIn>
+    <DieuKien />
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>true</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCSGTTP</ID>
+    <TenChungTu>Sổ giá thành sản phẩm</TenChungTu>
+    <LoaiNghiepVu>9.Báo cáo giá thành sản xuất</LoaiNghiepVu>
+    <PhieuIn>rpt_SoGiaThanhThanhPham.rpt</PhieuIn>
+    <DieuKien />
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>true</BCThanhPham>
+  </Table>
+  <Table>
+    <ID>BCTGTHANH_TP</ID>
+    <TenChungTu>Thẻ tính giá thành</TenChungTu>
+    <LoaiNghiepVu>9.Báo cáo giá thành sản xuất</LoaiNghiepVu>
+    <PhieuIn>rpt_TheGiaThanhThanhPham3.rpt</PhieuIn>
+    <DieuKien />
+    <BCCPVV>false</BCCPVV>
+    <BCThanhPham>true</BCThanhPham>
+  </Table>
+</NewDataSet>

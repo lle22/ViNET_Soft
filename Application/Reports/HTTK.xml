@@ -1,0 +1,3069 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>111</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Tiền mặt</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Cash on hand</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1111</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Tiền Việt Nam</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>3</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Vietnam dong</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1112</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Ngoại tệ</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>4</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Foreign currency</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>true</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1113</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Vàng bạc, kim khí quý, đá quý</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>5</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Gold,silver,gemstones</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>112</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Tiền gởi ngân hàng</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Cash in bank</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1121</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Tiền Việt Nam</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>7</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Vietnam dong</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1122</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Ngoại tệ</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>8</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Foreign currency</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>true</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1123</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Vàng bạc, kim khí quý, đá quý</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>9</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Gold,silger,gemstones</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>113</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Tiền đang chuyển</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Cash in transit</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1131</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Tiền Việt Nam</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Vietnam dong</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1132</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Ngoại tệ</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Foreign currency</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>121</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Đầu tư tài chính ngắn hạn</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>13</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Short term investment</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1211</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Cổ phiếu</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Equity securities</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1212</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Trái phiếu</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Debt securities</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>128</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Đầu tư  ngắn hạn khác</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Other short-term investments</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1281</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Tiền gởi có kỳ hạn</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Dead-line bank deposits</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1282</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Đầu tư ngắn hạn khác</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Other short-term investments</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>129</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Dự phòng giảm giá đầu tư ngắn hạn</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Provision for the diminution in value of short-term investment</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>131</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Phải thu của khách hàng</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>18</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Accounts receivable -trade</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>true</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>133</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Thuế GTGT được khấu trừ</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Input value added tax</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1331</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Thuế GTGT được khấu trừ của hàng hoá, dịch vụ</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Input value added tax for goods</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1332</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Thuế GTGT được khấu trừ của tài sản cố định</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Input value added tax for fixed asset</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>136</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Phải thu nội bộ</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Intercompany receivable</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>true</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1361</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Vốn kinh doanh của các đơn vị trực thuộc</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Investment in equity of subsidiaries</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>true</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1362</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phải thu nội bộ khác</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Other receivable from subsidiaries</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>true</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>138</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Phải thu khác</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>22</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Other receivable</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1381</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Tài sản thiếu chờ sử lý</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Shortage of assets awaiting resolution</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1385</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phải thu về cổ phần hoá</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Privatize receipt</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1388</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phải thu khác </TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Other receivable</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>139</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Dự phòng giảm thu khó đòi</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Provision for bad debt</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>141</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Tạm ứng</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>26</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Advances (detailed by receiables)</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1411</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Tạm ứng lương và các khoản phụ cấp theo lương </TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1412</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Tạm ứng vật tư hàng hoá </TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1413</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Tạm ứng chi phí giao khoán xây lắp nội bộ </TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1418</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Tạm ứng khác</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Other advances</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>142</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chi phí trả trước (ngắn hạn)</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <GhiChu />
+    <TenEng>Prepaid expenses</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1421</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí trả trước</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Prepaid expenses</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1422</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí chờ kết chuyển (áp dụng ở DN có CKKD dài)</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Deferred expenses</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>144</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Thế chấp, ký cược, ký quỹ ngắn hạn</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Short-term deposits,mortgages and collateral</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>151</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Hàng mua đang đi trên đường</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Goods in transit</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>152</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Nguyên liệu vật liệu</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>32</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Raw materials</TenEng>
+    <TKKho>true</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>153</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Công cụ, dụng cụ</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>33</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Tools and supplies</TenEng>
+    <TKKho>true</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1531</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Công cụ , Dụng cụ</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Tools and supplies</TenEng>
+    <TKKho>true</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1532</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Bao bì luân chuyển </TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Resuable packaging material</TenEng>
+    <TKKho>true</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1533</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Đồ dùng cho thuê</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Tools for leasing</TenEng>
+    <TKKho>true</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>154</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chi phí sản xuất kinh doanh dỡ dang</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>37</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Working in progress</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>155</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Thành phẩm</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>38</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Finished goods</TenEng>
+    <TKKho>true</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>156</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Hàng hoá</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>39</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Merchandise inventory</TenEng>
+    <TKKho>true</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1561</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Giá hàng hoá</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Cost of purchases</TenEng>
+    <TKKho>true</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1562</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí mua hàng</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Other charges</TenEng>
+    <TKKho>true</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1567</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Hàng hoá bất động sản</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Merchadise inventory of real estate</TenEng>
+    <TKKho>true</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>157</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Hàng gởi bán</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>42</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Goods on consignment</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>158</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Hàng hoá có báo thuế</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Non-tax inventory items</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>159</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Dự phòng giảm giá hàng tồn kho</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>5133</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Provision for decline in inventory</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>161</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chi sự nghiệp</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <GhiChu />
+    <TenEng>Expenditures from subsidies of state budget</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1611</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi sự nghiệp năm trước</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Prior year budget</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>1.Tài sản lưu động</Loai>
+    <SoHieu>1612</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi sự nghiệp năm nay</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Current year budget</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>211</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>TSCĐ hữu hình</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>50</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Tangible fixed assets</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2111</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Nhà cửa, vật kiến trúc</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>51</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Land, Building</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2112</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Máy móc thiết bị</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>52</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Machinery and equipment</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2113</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phương tiện vận tải , chuyền dẫn </TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Transportation and facilities</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2114</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Thiết bị dụng cụ quản lý </TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Office equipment</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2115</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Cây lâu năm, súc vật làm việc &amp; cho sản phẩm</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Longlife trees,working and producing animals</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2118</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Tài sản cố định khác </TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Other tangible fixed assets</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>212</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>TSCĐ thuê tài chính</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Finance lease assets</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>213</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>TSCĐ vô hình</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Intangible assets</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2131</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Quyền sử dụng đất</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Land use rights</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2132</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Quyền phát hành</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Organization pre-operation cost</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2133</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Bản quyền, bằng sáng chế</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Patents</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2134</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Nhãn hiệu hàng hoá</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Research and development costs</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2135</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phần mềm máy tính</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Software</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2136</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Giấy phép và giấy phép nhượng quyền</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Goodwill</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2138</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>TSCĐ vô hình khác</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Other intangible assets</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>214</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Hao mòn TSCĐ</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Accumulated depreciation and amortisation</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2141</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Hao mòn TSCĐ hữu hình</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>65</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Accumultated depreciation on fixed assets</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2142</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Hao mòn TSCĐ cho thuê tài chính</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>66</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Accumultated depreciation on finance lease assets</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2143</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Hao mòn TSCĐ vô hình</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>67</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Amortisation of intangible assets</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2147</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Hao mòn bất động sản đầu tư</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Accumulated depreciation  on real estate investments</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>217</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Bất động sản đầu tư</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Real estate investments</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>221</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Đầu tư vào công ty con</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Long-term investment</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2211</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Đầu tư cổ phiếu</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>69</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Equity investment</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2212</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Đầu tư khác</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>70</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Other investment</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>222</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Góp vốn liên doanh</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Collect of joint venture capital</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>223</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Đầu tư vào công ty liên kết</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Invest into incorporation-venture company</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>228</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Đầu tư dài hạn khác</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Other long-term invesments</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2281</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Cổ phiếu</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Stocks</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2282</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Trái phiếu</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Bonds</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2283</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Đầu tư dài hạn khác</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Other long-term invesments</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>229</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Dự phòng giảm giá chứng khoán đầu tư dài hạn</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>73</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Provision for decline in long-term invesments</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>241</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Xây dựng cơ bản dỡ dang</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>74</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Construction in progress</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2411</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Mua sắm tài sản cố định </TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Acquisition of fixed assets</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2412</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Xây dựng cơ bản</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Contruction in progress</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>2413</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Sửa chửa lớn TSCĐ</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Extraordinary repairs</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>242</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chi phí trả trước dài hạn</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>78</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Long-term prepaid expenses</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>243</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Tài sản thuế thu nhập hoãn lại</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Asset delay income tax </TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>2. Tài sản cố định</Loai>
+    <SoHieu>244</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Ký quỹ, ký cược dài hạn</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Long-term deposits</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>311</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Vay ngắn hạn</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>80</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Short-term brrowings</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>315</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Nợ dài hạn đến hạn phải trả</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>81</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Current portion of long-term debt</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>331</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Phải trả người bán</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>82</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Accounts payable-trade</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKCongNo_PhaiTra>true</TKCongNo_PhaiTra>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>333</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Thuế và các khoản phải nộp Nhà nước</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Taxes and payable to state budget</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3331</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Thuế GTGT phải nộp</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Value added tax</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>33311</SoHieu>
+    <Cap>3</Cap>
+    <TenTaiKhoan>Thuế GTGT đầu ra</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Output value added tax</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>33312</SoHieu>
+    <Cap>3</Cap>
+    <TenTaiKhoan>Thuế GTGT hàng nhập khẩu</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Value added tax for imported goods</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3332</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Thuế tiêu thụ đặc biệt</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>85</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Excise tax</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3333</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Thuế xuất khẩu, nhập khẩu</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Import and export duties</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>33331</SoHieu>
+    <Cap>3</Cap>
+    <TenTaiKhoan>Thuế xuất khẩu</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>5124</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Export duties</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>33332</SoHieu>
+    <Cap>3</Cap>
+    <TenTaiKhoan>Thuế nhập khẩu</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>5125</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Import duties</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3334</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Thuế thu nhập doanh nghiệp</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>87</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Enterprise  income tax</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3335</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Thuế thu nhập cá nhân</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>88</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Personal income tax</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3336</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Thuế tài nguyên</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>89</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Natural resource tax</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3337</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Thuế nhà đất, tiền thuê đất</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>90</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Land and housing taxobligations</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3338</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Các loại thuế khác</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>91</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Other tax payable</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3339</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phí, lệ phí và các khoản phải nộp</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>92</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Fee, duties and other pays</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>33391</SoHieu>
+    <Cap>3</Cap>
+    <TenTaiKhoan>Phí, lệ phí</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Fee, duties</TenEng>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>33392</SoHieu>
+    <Cap>3</Cap>
+    <TenTaiKhoan>Các khoản phải nộp khác</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Other pays</TenEng>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>334</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Phải trả công nhân viên</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>93</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Payable to employees</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3341</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phải trả công nhân viên </TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>93</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Payable to employees</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3342</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Trả lao động thuê ngoài</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Other pays</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>335</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chi phí phải trả</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>94</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Accrued expenses payable</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>336</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Phải trả nội bộ</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <TenEng>Intercompany payable</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKCongNo_PhaiTra>true</TKCongNo_PhaiTra>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>337</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Thanh toán theo tiến độ kế hoạch hợp đồng XD</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Payment upon the progress of construction contract plan</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>338</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Phải trả, phải nộp khác</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Other payable</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3381</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Tài sản thừa chờ xữ lý</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>97</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Surplus of assets waiting for resolution</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3382</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Kinh phí công đoàn</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>98</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Trade Union fees</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3383</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Bảo hiểm xã hội</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>99</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Social insurance payable</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3384</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Bảo hiểm y tế</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>100</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Health insurance payable</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3385</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phải trả về cổ phần hoá</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Privatize pays</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3386</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Nhận ký quỹ,ký cược ngắn hạn</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Short-term deposit received</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3387</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Doanh thu chưa thực hiện</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>5000</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Revenue of next fiscal periods</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3388</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phải trả, phải nộp khác</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>101</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Others payable</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>341</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Vay dài hạn</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>102</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Long-term borrowings</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3411</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Vay ngân hàng</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Bank borrowings</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3412</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Vay đối tượng khác</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Other borrowings</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>342</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Nợ dài hạn</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>103</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Long-term liabilities</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>343</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Trái phiếu phát hành</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Bonds released</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3431</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Mệnh giá trái phiếu</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Bond price</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3432</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chiết khấu trái phiếu</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Bond discount</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>3433</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phụ trội trái phiếu</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Additional part of bonds</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>344</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Nhận ký quỹ,ký cược dài hạn</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Long-term deposit received</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>347</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Thuế thu nhập hoàn lại phải trả</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Delay income tax</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>351</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Quỹ dự phòng trợ cấp mất việc làm</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Reserved funds</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>3. Nợ phải trả</Loai>
+    <SoHieu>352</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Dự phòng phải trả</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Provision for pays</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>411</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Nguồn vốn kinh doanh</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>106</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Pain in capital</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>4111</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Vốn đầu tư chủ sở hữu</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>5061</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Invested capital of owner's</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>4112</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Thặng dư vốn cổ phần</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>5062</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Surplus share capital</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>4118</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Vốn khác</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>5065</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Other capital</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>412</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chênh lệch đánh giá lại tài sản</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>107</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Differences upon asset revaluation</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>413</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chênh lệch tỷ giá</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>108</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Foreign exchange differences</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>4131</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chênh lệch tỷ giá hối đoái đánh giá lại cuối năm tài chính</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Foreign exchange differences re-evaluated in the end of fiscal year</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>4132</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chênh lệch tỷ giá hối đoái trong giai đoạn đầu tư XDCB</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Foreign exchange differences in capital construction investment stage</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>414</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Quỹ đầu tư phát triển</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Investment and development funds</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>415</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Quỹ dự phòng tài chính</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Finance reserved funds</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>416</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Các quỹ khác thuộc vốn chủ sở hữu</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>5006</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Other fund belong to  budget owner's capital</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>419</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Cổ phiếu quỹ</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>5005</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Stock funds</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>421</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Lợi nhuận chưa phân phối</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>111</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Undistributed earnings</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>4211</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Lợi nhuận năm trước</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Prior year earnings</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>4212</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Lợi nhuận năm nay</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Current year earnings</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>431</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Quỹ khen thưởng phúc lợi</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>5007</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Bonus and welfare funds</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>4311</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Quỹ khen thưởng</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Bonus fund</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>4312</SoHieu>
+    <Cap>3</Cap>
+    <TenTaiKhoan>Quỹ phúc lợi</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Welfare fund</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>4313</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Quỹ phúc lợi hình thành TSCĐ</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Welfare fund to take fixed assets</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>441</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Nguồn vốn đầu tư XD cơ bản</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Funds for capital expenditure</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>451</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Quỹ quản lý của cấp trên</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Subsidy funds from state buget</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>461</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Nguồn kinh phí sự nghiệp</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Subsidy funds from state buget</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>4611</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Nguồn kinh phí sự nghiệp năm trước</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Prior year</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>4612</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Nguồn kinh phí năm nay</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Current year</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>4. Nguồn vốn chủ sở hữu</Loai>
+    <SoHieu>466</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Nguồn kinh phí đã hình thành TSCĐ</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Fixed asset fund</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>511</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Doanh thu bán hàng</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>123</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Sales</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>5111</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Doanh thu bán hàng hoá</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Sales of merchandise</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>5112</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Doanh thu bán các thành phẩm </TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Sales of products</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>5113</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Doanh thu cung cấp dịch vụ</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Service revenues</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>5114</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Doanh thu trợ cấp trợ giá </TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Sales of subsidize</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>5117</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Doanh thu kinh doanh bất động sản</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Sales of real estate investments</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>512</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Doanh thu bán hàng nội bộ</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <TenEng>Internal sales revenue</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>5121</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Doanh thu  bán thu bán hàng hóa</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Sales of merchandise</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>5122</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Doanh thu bán các thành phẩm</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Sales of products</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>5123</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Doanh thu cung cấp dịch vụ</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Service revenues</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>515</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Doanh thu hoạt động tài chính</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Finiancial income</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>521</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chiết khấu thương mại</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Sales discounts</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>5211</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chiết khấu hàng hoá</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>136</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Mechandise discounts</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>5212</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chiết khấu thành phẩm</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>5130</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Product discounts</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>531</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Hàng bán trả lại</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Sales returns</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>5. Doanh thu</Loai>
+    <SoHieu>532</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Giảm giá hàng bán</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Sales allowances</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>611</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Mua hàng</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>138</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Purchases</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6111</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Mua nguyên vật liệu</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Purchases of raw materials</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6112</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Mua hàng hoá</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Purchases of merchandise</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>621</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chi phí nguyên vật liệu trực tiếp</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>158</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Raw material costs</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>622</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Tiền lương trực tiếp sản xuất</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Direct labour costs</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>623</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chi phí sử dụng máy thi công</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6231</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phí nhân công</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6232</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phí vật liệu</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6233</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phí dụng cụ sản xuất</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6234</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí khấu hao máy thi công</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6237</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phí dịch vụ mua ngoài</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6238</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phí bằng tiền khác</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>627</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chi phí sản xuất chung</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>0</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Factory overhead costs</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6271</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí nhân viên phân xưởng</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Indirect labour</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6272</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phí vật liệu</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Use of auxiliary materials</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6273</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phí dụng cụ sản xuất</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Use of tools and supplies</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6274</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Phí khấu hao TSCĐ</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Depreciation</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6277</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí dịch vụ mua ngoài</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Services rendered</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6278</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Các chi phí bằng tiền khác</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Sundry cost paid in cash</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>631</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Giá thành sản xuất</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Cost of products manufactured</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>632</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Giá vốn hàng bán</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>151</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Cost of goods sold</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>635</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chi phí tài chính</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Financial expenses</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>641</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chi phí bán hàng</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>156</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Selling expenses</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6411</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí nhân viên</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TenEng>Sales salary expense</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6412</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Ch iphí vật liệu, bao bì</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Packaging and indirect materials</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6413</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí cụng cụ đồ dùng</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Consumbale and office supplies</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6414</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí khấu hao TSCĐ</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Depreciation</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6415</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí bảo hành</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Warranty cost</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6417</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí dịch vụ mua ngoài</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Services bought</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6418</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí bằng tiền khác</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <TenEng>Sundry cash expenses</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>64181</SoHieu>
+    <Cap>3</Cap>
+    <TenTaiKhoan>Chi phí tiếp khách</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Customer expenses</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>64182</SoHieu>
+    <Cap>3</Cap>
+    <TenTaiKhoan>Chi phí vận chuyển</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Transportation expenses</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>64183</SoHieu>
+    <Cap>3</Cap>
+    <TenTaiKhoan>Chi phí CM Khách hàng</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>64184</SoHieu>
+    <Cap>3</Cap>
+    <TenTaiKhoan>Chi phí khác bán hàng</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Other sales expenses</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>642</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chi phí quản lý doanh nghiệp</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <MaTC>159</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>General and administration expenses</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6421</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí nhân viên quản lý</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Manager</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6422</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí vật liệu quản lý</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Consumbale and office supplies</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6423</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí đồ dùng văn phòng</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Office supplies</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6424</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí khấu hao TSCĐ</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Depreciation</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6425</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Thuế , phí, lệ phí</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Taxes, fees and changes</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6426</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí dự phòng</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Expenses from provisions</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6427</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí dịch vụ mua ngoài</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Services rendered  by outsiders</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>6428</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí bằng tiền khác</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <TenEng>Sundry cash expenses</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>64281</SoHieu>
+    <Cap>3</Cap>
+    <TenTaiKhoan>Chi phí tiền thuê nhà</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Hiring expenses</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>6. Chi phí sản xuất, kinh doanh</Loai>
+    <SoHieu>64282</SoHieu>
+    <Cap>3</Cap>
+    <TenTaiKhoan>Chi phí khác quản lý</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Other management expenses</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>7. Thu nhập hoạt động khác</Loai>
+    <SoHieu>711</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Thu nhập khác</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>169</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Other income</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>8. Chi phí hoạt động khác</Loai>
+    <SoHieu>811</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chi phí khác</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>172</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Other expenses</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>8. Chi phí hoạt động khác</Loai>
+    <SoHieu>821</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Chi phí thuế thu nhập doanh nghiệp</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <TenEng>Expenses for company income tax</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>8. Chi phí hoạt động khác</Loai>
+    <SoHieu>8211</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí thuế TNDN hiện hành</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Current expenses for company income tax</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>8. Chi phí hoạt động khác</Loai>
+    <SoHieu>8212</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>Chi phí thuế TNDN hoãn lại</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TenEng>Delay expenses for company income tax</TenEng>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>9. Xác định kết quả kinh doanh</Loai>
+    <SoHieu>911</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Xác định kết quả kinh doanh</TenTaiKhoan>
+    <Kieu>C</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>175</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Income summary</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>Tài khoản ngoài bảng</Loai>
+    <SoHieu>001</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Tài sản thuê ngoài</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>177</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Operating lease assets</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>Tài khoản ngoài bảng</Loai>
+    <SoHieu>002</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Vật tư, hàng hoá nhận giữ hộ, gia công</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>178</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Goods held under trust or for processing</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>Tài khoản ngoài bảng</Loai>
+    <SoHieu>003</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Hàng hoá nhận bán hộ, nhận ký gởi</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>179</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Goods received on consignment for sale</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>Tài khoản ngoài bảng</Loai>
+    <SoHieu>004</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Nợ khó đòi đã xữ lý</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>180</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Bad debts written off</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>Tài khoản ngoài bảng</Loai>
+    <SoHieu>007</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Ngoại tệ các loại</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>181</MaTC>
+    <GhiChu>...</GhiChu>
+    <TenEng>Foreign currences</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>Tài khoản ngoài bảng</Loai>
+    <SoHieu>008</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Hạn mức kinh phí</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>true</CoTKCon>
+    <GhiChu />
+    <TenEng>Subsidies of state budget or projects</TenEng>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>Tài khoản ngoài bảng</Loai>
+    <SoHieu>0081</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>HMKP thuộc ngân sách trung ương</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <GhiChu />
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>Tài khoản ngoài bảng</Loai>
+    <SoHieu>0082</SoHieu>
+    <Cap>2</Cap>
+    <TenTaiKhoan>HMKP thuộc ngân sách địa phương</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>Tài khoản ngoài bảng</Loai>
+    <SoHieu>009</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Nguồn vốn khấu hao cơ bản</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>185</MaTC>
+    <GhiChu>...</GhiChu>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>Tài khoản ngoài bảng</Loai>
+    <SoHieu>010</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Cổ phiếu lưu hành</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>182</MaTC>
+    <GhiChu>...</GhiChu>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+  <Table>
+    <Loai>Tài khoản ngoài bảng</Loai>
+    <SoHieu>011</SoHieu>
+    <Cap>1</Cap>
+    <TenTaiKhoan>Cổ tức, lợi nhuận phải trả</TenTaiKhoan>
+    <Kieu>N</Kieu>
+    <CoTKCon>false</CoTKCon>
+    <MaTC>183</MaTC>
+    <GhiChu>...</GhiChu>
+    <TKKho>false</TKKho>
+    <TKCongNo>false</TKCongNo>
+    <TKNgoaiTe>false</TKNgoaiTe>
+  </Table>
+</NewDataSet>

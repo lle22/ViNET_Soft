@@ -1,0 +1,2 @@
+svrnetcn.exe
+cliconfg.exe
